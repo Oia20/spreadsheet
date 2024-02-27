@@ -1,6 +1,6 @@
 # spreadsheet
 A simple spreadsheet that can do mathematical functions
-Github Pages website for this project: https://oia20.github.io/browserRPG/
+Github Pages website for this project: https://oia20.github.io/spreadsheet/
 
 How to use mathematical functions: type and "=" before your expression, when ready to calculate click enter. 
 example: "=2+2" *enter*
